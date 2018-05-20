@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: dd8161269f4486b40adf377d0e64b144
+timeCreated: 1446889243
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player
+    21300002: enemy
+    21300004: boss
+    21300006: enemybullet1
+    21300008: enemybullet2
+    21300010: enemybullet3
+    21300012: gameover
+    21300014: smoke
+    21300016: playerbullet1
+    21300018: playerbullet2
+    21300020: playerbullet3
+    21300022: background
+    21300024: music_off
+    21300026: music_on
+    21300028: setting
+    21300030: restart
+    21300032: pose
+    21300034: start
+    21300036: score
+    21300038: bossbullet1
+    21300040: bossbullet2
+    21300042: bossbullet3
+    21300044: HP
+    21300046: HPline
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 890
+        width: 262
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 267
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 155
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybullet1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 99
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybullet2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 105
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybullet3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 531
+        width: 103
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameover
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 776
+        width: 736
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 323
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerbullet1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 499
+        width: 121
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerbullet2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 466
+        width: 124
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerbullet3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 434
+        width: 117
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: background
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 277
+        width: 786
+        height: 460
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: music_off
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 181
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: music_on
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 50
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: setting
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 58
+        width: 118
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: restart
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 62
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pose
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 78
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: start
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: score
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 271
+        width: 174
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossbullet1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 87
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossbullet2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 83
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossbullet3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HP
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 332
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HPline
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 267
+        height: 20
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
